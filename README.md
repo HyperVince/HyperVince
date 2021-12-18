@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HyperVince
-- 👀 I’m interested in Web Dev !
+- 👀 I’m interested in Web Dev, Web Design & WildLife Photograpy !
 - 🌱 I’m currently learning PHP & Web Tech !
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : vincentcorbalan@gmail.com

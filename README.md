@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HyperVince
 - 👀 I’m interested in Web Dev, Web Design & WildLife Photography !
-- 🌱 I’m currently learning PHP & Web Tech !
+- 🌱 I’m currently working on PHP & Web Tech !
 - 💞️ I’m looking to collaborate on any new exciting project !
 - 📫 How to reach me : vincentcorbalan@gmail.com
 
